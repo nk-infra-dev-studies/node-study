@@ -1,0 +1,34 @@
+{
+  "name": "node-study",
+  "description:": "node.js 스터디 프로젝트",
+  "version": "0.0.2",
+  "author": {
+    "name": "Myongrak Joung",
+    "email": "hasphere@gmail.com"
+  },
+  "license:": "Educational Community License",
+  "homepage": "https://github.com/nk-infra-dev-studies/node-study.git",
+  "engines": ">=5.7.1",
+  "scripts": {
+    "start": "node bin/www"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "bluebird": "^3.3.4",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "mongo": "^0.1.0",
+    "morgan": "~1.6.1",
+    "mysql": "^2.10.2",
+    "redis": "^2.4.2",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "should": "^8.2.2",
+    "supertest": "^1.2.0"
+  }
+}
