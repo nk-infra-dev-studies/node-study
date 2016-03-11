@@ -12,7 +12,7 @@
 이 프로젝트 DB는 Docker를 사용하고 있습니다.
 Docker를 사용한 DB 사용법은 추후 별도로 스터디에 포함하여 진행 예정입니다.
 
-## Code quality status
+### Code quality status
 [![bitHound Overall Score](https://www.bithound.io/github/nk-infra-dev-studies/node-study/badges/score.svg)](https://www.bithound.io/github/nk-infra-dev-studies/node-study)
 [![bitHound Dependencies](https://www.bithound.io/github/nk-infra-dev-studies/node-study/badges/dependencies.svg)](https://www.bithound.io/github/nk-infra-dev-studies/node-study/master/dependencies/npm)
 [![bitHound Dev Dependencies](https://www.bithound.io/github/nk-infra-dev-studies/node-study/badges/devDependencies.svg)](https://www.bithound.io/github/nk-infra-dev-studies/node-study/master/dependencies/npm)
