@@ -1,0 +1,27 @@
+{
+  "name": "node-study",
+  "description": "팀 node.js 스터디 프로젝트",
+  "main": "bin/www",
+  "authors": [
+    "{name:\"Myoungrak Joung\"",
+    "email:\"hasphere@gmail.com\"}"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nk-infra-dev-studies/node-study",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
